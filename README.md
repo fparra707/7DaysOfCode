@@ -1,1 +1,3 @@
-Reto 7 dias de código
+<h1> Reto 7 dias de código </h1>
+
+Dia 1 en construcción...
